@@ -7,10 +7,15 @@ Encryption: Encrypt plaintext messages by shifting each letter in the message by
 Decryption: Decrypt ciphertext messages by shifting each letter in the message in the reverse direction.
 
 ## Usage
-1. Clone the repository to your local machine: ` https://github.com/imsovandas/PRODIGY_CS_01.git `
-2. 2.Navigate to the directory containing the script: `cd PRODIGY_CS_01`
-4. Run the script: `python Implement-Caesar-Cipher.py`
-5. Follow the on-screen instructions to encrypt or decrypt messages.
+1. Clone the repository to your local machine:
+```https://github.com/imsovandas/PRODIGY_CS_01.git```
+
+2. Navigate to the directory containing the script:
+```cd PRODIGY_CS_01```
+
+3. Run the script:
+```python Implement-Caesar-Cipher.py```
+4. Follow the on-screen instructions to encrypt or decrypt messages.
 
 ## Example
 ```
