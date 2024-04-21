@@ -8,13 +8,17 @@ Decryption: Decrypt ciphertext messages by shifting each letter in the message i
 
 ## Usage
 1. Clone the repository to your local machine:
+
 ```https://github.com/imsovandas/PRODIGY_CS_01.git```
 
 2. Navigate to the directory containing the script:
+   
 ```cd PRODIGY_CS_01```
 
 3. Run the script:
+   
 ```python Implement-Caesar-Cipher.py```
+
 4. Follow the on-screen instructions to encrypt or decrypt messages.
 
 ## Example
